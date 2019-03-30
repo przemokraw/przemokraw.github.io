@@ -27,10 +27,10 @@ title: Piszemy grę w Pythonie I - konfiguracja środowiska
    nam się pokazać okienko Windows Powershell. Aby zainstalować biblioteki Pythona, wpisujemy
    w tej konsoli następujące polecenia:
 
-   ```
+   `
    py -m pip install -U pygame --user
    py -m pip install -U ipython --user
-   ```
+   `
 
    ![_config.yml]({{ site.baseurl }}/images/2019-03-30-pip.gif)
 
