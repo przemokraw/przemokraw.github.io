@@ -36,3 +36,25 @@ title: Piszemy grę w Pythonie I - konfiguracja środowiska
 
 ## Sprawdzamy, czy wszystko się powiodło
 
+1. Wchodzimy na stronę samouczka `pygame` [(link)](https://www.pygame.org/docs/tut/PygameIntro.html) i szukamy sekcji `Taste`.
+2. Tworzymy nowy, pusty plik o nazwie `gra.py` w katalogu naszego projektu
+   i wklejamy do niego zawartosć kodu, który znajduje się w sekcji `Taste`
+   samouczka
+3. Klikamy prawym przyciskiem myszki na obrazek piłki, który znajduje się
+   na stronie samouczka i zapisujemy go do katalogu głównego naszego projektu.
+4. Klikamy na plik `gra.py` w Visual Studio Code, naciskamy kombinację klawiszy
+   `Ctrl + Shift + P`. W okienku, które się pojawi, wpsiujemy `Python: uruchom plik pythonowy w terminalu` i naciskamy `Enter`. Powinno pojawić się okienko
+   z poruszającą się piłką.
+
+## Zadania
+
+Zanim przystąpimy do dalszej części projektu możesz trochę poeksperymentować
+z kodem w pliku `gra.py`, żeby poczuć, jak działa biblioteka `pygame`:
+
+1. Spróbuj zmienić rozmiar ekrany na 1280 na 720
+2. Spróbuj spowolnić / przyśpieszyć ruch piłki
+3. Spróbuj zmienić kolor tła
+4. Spróbuj wstawić drugą piłkę (trudniejsze)
+
+To wszystko. Jeśli coś nie zadziało, napisz w komentarzu lub wyślij maila
+bezpośrednio do mnie.
