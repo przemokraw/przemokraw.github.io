@@ -1,9 +1,9 @@
 ---
 layout: page
-title: About
+title: O mnie
 permalink: /about/
 ---
 
-### Contact me
+### Kontakt
 
 [przemekkraw@gmail.com](mailto:przemekkraw@gmail.com)

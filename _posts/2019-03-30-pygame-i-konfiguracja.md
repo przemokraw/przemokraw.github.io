@@ -51,7 +51,7 @@ title: Piszemy grę w Pythonie I - konfiguracja środowiska
 Zanim przystąpimy do dalszej części projektu możesz trochę poeksperymentować
 z kodem w pliku `gra.py`, żeby poczuć, jak działa biblioteka `pygame`:
 
-1. Spróbuj zmienić rozmiar ekrany na 1280 na 720
+1. Spróbuj zmienić rozmiar ekranu na 1280 na 720
 2. Spróbuj spowolnić / przyśpieszyć ruch piłki
 3. Spróbuj zmienić kolor tła
 4. Spróbuj wstawić drugą piłkę (trudniejsze)
